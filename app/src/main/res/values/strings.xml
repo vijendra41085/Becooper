@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CB Creations ERP</string>
+    <string name="brand_subtitle">Garment Manufacturing &amp; Textile Supply Chain ERP</string>
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_challans">Job Challans</string>
+    <string name="nav_karigars">Karigars</string>
+    <string name="nav_qc">Quality (QC)</string>
+    <string name="nav_finance">Cost &amp; GST</string>
+    <string name="nav_blueprint">AI &amp; Specs</string>
+    <string name="rbac_switch_role">Switch Active Role</string>
+    <string name="whatsapp_dispatch_button">Send on WhatsApp</string>
+    <string name="audit_log_title">Transaction Audit Trail</string>
+    <string name="qc_new_inspection">Record QC Inspection</string>
+    <string name="speed_booster_title">Speed Booster &amp; Gamification Engine</string>
+    <string name="security_warning_prototype">Security Warning: API keys in prototype APKs can be extracted if decompiled. Configure keys via the Secrets panel in AI Studio and do not share the APK publicly.</string>
+</resources>

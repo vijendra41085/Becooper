@@ -1,0 +1,6 @@
+{
+  "name": "CB Creations ERP",
+  "description": "Garment Manufacturing ERP for C B CREATIONS with Material & Challan Management, Hindi WhatsApp Dispatch, Karigar Ledger & Speed Booster, Quality Control (QC) Engine, RBAC Security, Job Costing, GST E-Invoice QR, and Gemini AI Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
